@@ -1,4 +1,4 @@
-package src;
+package client;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
